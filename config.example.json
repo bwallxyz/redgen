@@ -1,0 +1,6 @@
+{
+  "2c-key": "491d5b9d38237439327ad323d46f392f",
+  "enable-proxies": true,
+  "retrieve-proxies": false,
+  "proxy-file": "./proxy.txt"
+}
